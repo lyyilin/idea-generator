@@ -29,7 +29,6 @@
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Charts**: [Recharts](https://recharts.org/)
 - **AI SDK**: [@google/genai](https://www.npmjs.com/package/@google/genai)
-- **Routing**: React Router 7
 
 ## 🚀 快速开始
 
@@ -44,9 +43,14 @@
 
 ## 📸 应用预览
 
-| 概览仪表盘 | 每日创意推送 | 兴趣管理 |
-| :--- | :--- | :--- |
-| ![Dashboard](https://via.placeholder.com/300x200?text=Dashboard) | ![Explore](https://via.placeholder.com/300x200?text=AI+Explore) | ![Input](https://via.placeholder.com/300x200?text=Interest+Input) |
+###  概览仪表盘 
+ ![Dashboard](https://ai-studio-static-online.cdn.bcebos.com/bd1a597f8d364c3d8e20a08465f8a1566dc05fe093314bda8579b6af9645c2f5) 
+ 
+### 每日创意推送 
+![Explore](https://ai-studio-static-online.cdn.bcebos.com/e61d22b9135245b4b848a16c793f6855a578daba9ca54d27901ee925a63383cb) 
+
+### 兴趣管理 
+![Input](https://ai-studio-static-online.cdn.bcebos.com/99e3d4ea7c0d4831ae6128b985dc08edc502344c156f4b6aa225019e6049e767) 
 
 ## 💡 为什么选择这个工具？
 
